@@ -1,13 +1,13 @@
 # CatBoost Classifier Analysis
 This Jupyter Notebook demonstrates how to use the CatBoost Classifier to build a machine learning model, evaluate its performance, and visualize the results using a dataset. The notebook covers data preprocessing, model training, evaluation, and plotting.
 
-Contents
--Introduction
--Dependencies
--Dataset
--Notebook Overview
--Results
--Acknowledgements
+## Contents
+ -Introduction
+ -Dependencies
+ -Dataset
+ -Notebook Overview
+ -Results
+ -Acknowledgements
 
 Introduction
 CatBoost is a popular gradient boosting algorithm developed by Yandex. It is particularly known for handling categorical features automatically, providing robust performance without extensive preprocessing.
