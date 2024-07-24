@@ -45,3 +45,5 @@ The model's performance is evaluated using accuracy and F1-score metrics. Additi
 ## Results
 CatBoost is optimized for speed, and its training process is significantly faster compared to other gradient boosting algorithms, especially with large datasets and high-cardinality categorical features.
 Despite its speed, CatBoost does not compromise on the quality of predictions, maintaining high accuracy and robustness across different datasets and problem types.
+
+For a detailed explanation, you can read our comprehensive blog post on [What is CatBoost? A Complete Guide to Using CatBoost in Machine Learning](https://cafetadris.com/blog/%d9%85%d8%af%d9%84-catboost-%da%86%db%8c%d8%b3%d8%aa%d8%9f-%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%84-%d8%a7%d8%b3%d8%aa%d9%81%d8%a7%d8%af%d9%87-%d8%a7%d8%b2-catboost-%d8%af/).
